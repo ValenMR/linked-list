@@ -10,7 +10,7 @@ _This repository can be cloned without any problem and create your own scripts f
 
 ```
 This repository requires:
-• The [Pydantic](https://github.com/samuelcolvin/pydantic) library
+• The Pydantic library
 • Python 3.8 or 3.9.
 ```
 
