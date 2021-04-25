@@ -18,6 +18,6 @@ This repository requires:
 
 * [Pydantic](https://github.com/samuelcolvin/pydantic)
 
-## Autores ✒️
+## Author ✒️
 
 * **Mateo Aguirre Duque** - [MAD](https://github.com/MAD-py)
