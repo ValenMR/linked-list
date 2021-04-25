@@ -4,7 +4,7 @@ _This project is a mini-library of linked and doubly linked lists in Python._
 
 ## Beginning 🚀
 
-_This repository can be cloned without any problem and create your own scripts from it, to add changes or improvements first create an issues._
+_This repository can be cloned without any problem and create your own scripts from it, to add changes or improvements first create an "issue"._
 
 ### Pre-requisites 📋
 
